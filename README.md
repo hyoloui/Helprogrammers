@@ -1,70 +1,58 @@
-# Getting Started with Create React App
+# Helprogrammers
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h2 align="center"> Invitation ✉️ </h2>
 
-## Available Scripts
+To. **지옥**의 알고리즘을 헤쳐나가는 개발자 여러분!
 
-In the project directory, you can run:
+---
 
-### `yarn start`
+알고리즘을 풀고 계신가요? 도움이 필요하시다고요?!
+그렇다면 여러분을 초대합니다. Helprogrammers에서 여러분의 문제를 해결해보세요!
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+👇 Helprogrammers 바로가기!
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+[React App](https://helprogrammers-kappa.vercel.app/)
 
-### `yarn test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<p align="end">From. 당신을 <b>도와줄</b> Helprogrammers</p>
 
-### `yarn build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# 프로젝트 소개
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Concept
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<aside>
+💡 어려운 알고리즘 문제를 공유하고 함께 해결하는, 개발자 커뮤니티 **헬프로그래머스**!
 
-### `yarn eject`
+**헬프로그래머스 (Helprogrammers)**
+1. 헬프 + 프로그래머스 : 개발자들의 알고리즘 문제해결을 돕는다(HELP).
+2. 헬 + 프로그래머스 : 프로그래밍은 말그대로 헬(HELL) 이다.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+</aside>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Function
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+<aside>
+🛠 개발자에 의한, 개발자를 위한 기능!
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+1. 도움을 구하고 싶은 알고리즘 **질문을 게시**하고, **댓글로 힌트**를 주고 받을 수 있습니다.
 
-## Learn More
+2. 댓글은 스포의 정도에 따라 **상 중 하**의 레벨로 나누어 작성됩니다.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+3. 유저가 보고싶지 않은 수준의 힌트가 스포되지 않도록 
+    댓글은 가려진 상태로 제공되며, **원하는 레벨의 힌트만 열어볼 수 있습니다**.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+4. 마크다운 에디터를 통해 게시글 및 댓글 작성시 가독성있는 **코드를 작성**할 수 있습니다.
 
-### Code Splitting
+5. 모든 게시글과 댓글 작성시 **작성자**와 **비밀번호**를 입력해 수정, 삭제 전 유효성검사를 진행합니다.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+</aside>
 
-### Analyzing the Bundle Size
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+# 시연을 하러 가볼까요?
 
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+[👉 Helprogrammers 웹사이트 바로가기!](https://helprogrammers-kappa.vercel.app/)
+[👉 Helprogrammers 시연영상 바로가기!](https://www.youtube.com/watch?v=cDeqB5vbVzs/)
